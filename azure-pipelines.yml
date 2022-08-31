@@ -9,7 +9,7 @@ trigger:
 variables:
 
   # Azure Resource Manager connection created during pipeline creation
-  azureSubscription: 'b929947a-55ee-4408-b558-4dc074c3abaf' #'Azure subscription 1'
+  azureSubscription: 'Azure subscription 1' #'b929947a-55ee-4408-b558-4dc074c3abaf' #'Azure subscription 1'
 
   # Web app name
   webAppName: 'ft-pb'
