@@ -15,7 +15,7 @@ variables:
   webAppName: 'flatris-pb67'
 
   # Resource group
-  resourceGroupName: 'ASP-testrg-9560'
+  resourceGroupName: 'test-rg'
 
   # Environment name
   environmentName: 'flatris-pb67'
