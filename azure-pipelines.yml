@@ -9,16 +9,16 @@ trigger:
 variables:
 
   # Azure Resource Manager connection created during pipeline creation
-  azureSubscription: 'Azure subscription 1'
+  azureSubscription: 'b929947a-55ee-4408-b558-4dc074c3abaf' #'Azure subscription 1'
 
   # Web app name
-  webAppName: 'flatris-pb67'
+  webAppName: 'ft-pb'
 
   # Resource group
   resourceGroupName: 'test-rg'
 
   # Environment name
-  environmentName: 'flatris-pb67'
+  environmentName: 'ft-pb'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
